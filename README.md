@@ -1,2 +1,2 @@
 # UTC503
-Jeu de cartes et autres
+Jeu de 32 cartes
